@@ -26,7 +26,8 @@ Junior DevOps Engineer
 ![image](https://user-images.githubusercontent.com/123241700/227772064-9708ca29-14d0-486b-aa8d-7fdb26619c0b.png) -
 ![image](https://user-images.githubusercontent.com/123241700/227772100-f37af245-34fe-45a5-9dc5-f597c64e7349.png) -
 ![image](https://user-images.githubusercontent.com/123241700/227772142-9cec068c-a302-4144-8f7c-c3fc7d38fca4.png) -
-![image](https://user-images.githubusercontent.com/123241700/227772162-e01adf88-133a-495d-9e94-99fdbd0d1734.png) -
+![image](https://user-images.githubusercontent.com/123241700/227772162-e01adf88-133a-495d-9e94-99fdbd0d1734.png) 
+
 I am motivated to continuously develop and advance in my field, out of a strong desire to learn. I am eager to collaborate with a team and demonstrate my abilities and the knowledge I have gained, while striving to improve and grow.
 
 
