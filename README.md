@@ -9,7 +9,7 @@ Junior DevOps Engineer
   www.linkedin.com/in/baryitzhaky
 
 * Take a look at my recent project
-  https://github.com/YitzhakyBar/status-page-ron-bar
+ https://github.com/YitzhakyBar/ARCI-CICD-project.git
   
  
  # Languages and Tools:
