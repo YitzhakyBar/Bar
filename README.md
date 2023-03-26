@@ -14,9 +14,9 @@ Junior DevOps Engineer
  
  # Languages and Tools:
  
-![image](https://user-images.githubusercontent.com/123241700/227771792-519711bd-f96d-4b16-be58-ec86e2823a5b.png)
-![image](https://user-images.githubusercontent.com/123241700/227771888-4295ba78-bb5a-435f-a577-f9c722dc01b0.png)
-![image](https://user-images.githubusercontent.com/123241700/227771909-82235224-20ae-4811-b419-d665ffbec01c.png)
+![image](https://user-images.githubusercontent.com/123241700/227771792-519711bd-f96d-4b16-be58-ec86e2823a5b.png) -
+![image](https://user-images.githubusercontent.com/123241700/227771888-4295ba78-bb5a-435f-a577-f9c722dc01b0.png) -
+![image](https://user-images.githubusercontent.com/123241700/227771909-82235224-20ae-4811-b419-d665ffbec01c.png) -
 ![image](https://user-images.githubusercontent.com/123241700/227771928-c20e17e1-5fd9-43e5-819a-286c97d531ae.png)
 ![image](https://user-images.githubusercontent.com/123241700/227771949-ce30ad3d-a57d-487c-b762-888bc5e8861c.png)
 ![image](https://user-images.githubusercontent.com/123241700/227771964-0c533eed-0c04-42dc-a8aa-d8648fa50368.png)
